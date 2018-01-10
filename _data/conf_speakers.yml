@@ -5,9 +5,9 @@
   company: OW2
   link: https://www.ow2.org/bin/view/Main/
   image: https://www.ow2.org/bin/download/About/Management_Office/Assad_Montasser_100.jpg
-  bio: Software engineer at OW2. OW2 is a global open source software community organization. An open source non-profit association, its mission is to develop open source code infrastructure software and to grow a community of open source code developers. Assad has a computer science degree from Université Paris Sud and has been working for more than 17 years in IT, mostly on Java/J2EE projects but also on mobile applications for the last three years.
+  bio: OW2 is a global open source software community organization. An open source non-profit association, its mission is to develop open source code infrastructure software and to grow a community of open source code developers. Assad has a computer science degree from Université Paris Sud and has been working for more than 17 years in IT, mostly on Java/J2EE projects but also on mobile applications for the last three years.
 - id: bbaldasari
-  name: Boris Baldasari
+  name: Boris Baldassari
   role: CEO
   company: Castalia Solutions
   link: http://castalia.solutions/
@@ -43,10 +43,10 @@
   bio: Henrik Mitsch leads Mozilla's Open Innovation Products & Engineering team. He was a volunteer since participating in a Mozilla 1.0 release party in 2002. In 2016 Henrik joined Mozilla's Open Innovation team as a staff member. Before that he held various consulting and IT management roles in telecommunications, transportation and software industries.
 - id: ivancsa
   name: Ildiko Vancsa
-  role:
+  role: Ecosystem Technical Lead
   company: OpenStack Foundation
   link: http://openstack.org
-  image:
+  image: https://media.licdn.com/media/AAEAAQAAAAAAAAYmAAAAJGZlNjQ5Zjk5LThhOTktNDA5NS04ZDdiLWI1ZjZhMGUxYjg4Nw.jpg
   bio: 
 - id: jgbarah
   name: Jesús M. González-Barahona
@@ -54,7 +54,7 @@
   company: Bitergia/University Rey Juan Carlos
   link: https://gsyc.urjc.es/~jgb/
   image: https://gsyc.urjc.es/~jgb/jgb.jpg
-  bio: 
+  bio: Co-founder of Bitergia, the software development analytics company specialized in the analysis of free open source software projects. He is also professor in Universidad Rey Juan Carlos (Spain), in the context of the GSyC/LibreSoft research group. His interests include the study of communities of software development, with a focus on quantitative and empirical studies. He enjoys taking photos of the coffee he drinks around the world.
 - id: jsmanrique
   name: J. Manrique López
   role: CEO
@@ -64,10 +64,10 @@
   bio: Bilbaino born in Gijón, living in <em>Fuenla</em> and working in Bitergia as CEO
 - id: rpaik
   name: Raymond Paik
-  role: Project Manager
+  role: Operations Manager
   company: The Linux Foundation
   link: http://linuxfoundation.org
-  image:
+  image: https://media.licdn.com/media/AAEAAQAAAAAAAAgPAAAAJGRiZWFhODk0LWY2OTUtNGI5Mi05MjllLTNjZmU2OWViMDc5Ng.jpg
   bio: 
 - id: tmens
   name: Tom Mens
