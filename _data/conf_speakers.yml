@@ -1,8 +1,78 @@
 #GrimoireCon speakes data
-- name:
+- id: amontasser
+  name: Assad Montasser
+  role: Software Engineer
+  company: OW2
+  link: https://www.ow2.org/bin/view/Main/
+  image: https://www.ow2.org/bin/download/About/Management_Office/Assad_Montasser_100.jpg
+  bio:
+- id: bbaldasari
+  name: Boris Baldasari
+  role: CEO
+  company: Castalia Solutions
+  link: http://castalia.solutions/
+  image: http://m.c.lnkd.licdn.com/mpr/mpr/shrinknp_200_200/p/1/005/0a0/051/10cbf7d.jpg
+  bio: Boris Baldassari is the founder of Castalia Solutions. He is an expert in software development methods and tools with 12+ years of experience working on complex development processes for small and large companies. He notably worked for Telelogic and IBM, servicing the industry in the bank, insurance, automotive and aeronautics domains. He has published papers and articles in research and industry conferences, and obtained his Ph.D. in 2014.
+- id: dizquierdo
+  name: Daniel Izquierdo
+  role: Data Analyst
+  company: Bitergia
+  link: http://bitergia.com
+  image: https://opensource.com/sites/default/files/resize/daniel-180x272.jpg
+  bio:
+- id: econstantinou
+  name: Eleni Constantinou
+  role: Postdoctoral Researcher
+  company: University of Mons
+  link: http://www.econst.eu/
+  image: https://pbs.twimg.com/profile_images/677460691242999808/EutWGw0z_400x400.jpg
+  bio: B.Sc., M.Sc. and Ph.D. degrees from the Department of Informatics of Aristotle University of Thessaloniki (AUTH). Currently, postdoctoral researcher at the Software Engineering Lab of the Department of Computer Science of University of Mons and scientific coordinator of the research project SECOHealth “Towards an interdisciplinary, socio-technical methodology and analysis of the health of software ecosystems”
+- id: glink
+  name: Georg Link
+  role: PhD Student
+  company: Univerisity of Nebraska at Omaha
+  link: http://georg.link/
+  image: http://georg.link/profile.jpg
+  bio:
+- id: hmitsch
+  name: Henrik Mitsch
+  role: Senior Manager
+  company: Mozilla
+  link: https://mozillians.org/u/hmitsch/
+  image: https://pbs.twimg.com/profile_images/772562977149124608/0PtzlEbn_400x400.jpg
+  bio: Henrik Mitsch leads Mozilla's Open Innovation Products & Engineering team. He was a volunteer since participating in a Mozilla 1.0 release party in 2002. In 2016 Henrik joined Mozilla's Open Innovation team as a staff member. Before that he held various consulting and IT management roles in telecommunications, transportation and software industries.
+- id: ivancsa
+  name: Ildiko Vancsa
   role:
-  company:
-  link:
+  company: OpenStack Foundation
+  link: http://openstack.org
   image:
-  title:
-  description:
+  bio: 
+- id: jgbarah
+  name: Jesús M. González-Barahona
+  role: Researcher
+  company: Bitergia/University Rey Juan Carlos
+  link: https://gsyc.urjc.es/~jgb/
+  image: https://gsyc.urjc.es/~jgb/jgb.jpg
+  bio: 
+- id: jsmanrique
+  name: J. Manrique López
+  role: CEO
+  company: Bitergia
+  link: https://bitergia.com
+  image: https://pbs.twimg.com/profile_images/672419365845925889/raiXjy4W_400x400.jpg
+  bio: Bilbaino born in Gijón, living in <em>Fuenla</em> and working in Bitergia as CEO
+- id: rpaik
+  name: Raymond Paik
+  role: Project Manager
+  company: The Linux Foundation
+  link: http://linuxfoundation.org
+  image:
+  bio: 
+- id: tmens
+  name: Tom Mens
+  role: Full professor
+  company: University of Mons
+  link: http://informatique.umons.ac.be/perso/Mens.Tom/
+  image: http://informatique.umons.ac.be/perso/Mens.Tom/images/tommens.jpg
+  bio: Full professor at the Institut d'Informatique of the Faculty of Sciences of the University of Mons (UMons) in Belgium. I am director of the Software Engineering Lab, and I teach courses in Software Engineering, Software Modeling, Software Evolution, Declarative Programming. 
