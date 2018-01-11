@@ -20,20 +20,6 @@
   link: http://bitergia.com
   image: https://opensource.com/sites/default/files/resize/daniel-180x272.jpg
   bio:
-- id: econstantinou
-  name: Eleni Constantinou
-  role: Postdoctoral Researcher
-  company: University of Mons
-  link: http://www.econst.eu/
-  image: https://pbs.twimg.com/profile_images/677460691242999808/EutWGw0z_400x400.jpg
-  bio: B.Sc., M.Sc. and Ph.D. degrees from the Department of Informatics of Aristotle University of Thessaloniki (AUTH). Currently, postdoctoral researcher at the Software Engineering Lab of the Department of Computer Science of University of Mons and scientific coordinator of the research project SECOHealth “Towards an interdisciplinary, socio-technical methodology and analysis of the health of software ecosystems”
-- id: glink
-  name: Georg Link
-  role: PhD Student
-  company: Univerisity of Nebraska at Omaha
-  link: http://georg.link/
-  image: http://georg.link/profile.jpg
-  bio:
 - id: hmitsch
   name: Henrik Mitsch
   role: Senior Manager
@@ -41,13 +27,6 @@
   link: https://mozillians.org/u/hmitsch/
   image: https://pbs.twimg.com/profile_images/772562977149124608/0PtzlEbn_400x400.jpg
   bio: Henrik Mitsch leads Mozilla's Open Innovation Products & Engineering team. He was a volunteer since participating in a Mozilla 1.0 release party in 2002. In 2016 Henrik joined Mozilla's Open Innovation team as a staff member. Before that he held various consulting and IT management roles in telecommunications, transportation and software industries.
-- id: ivancsa
-  name: Ildiko Vancsa
-  role: Ecosystem Technical Lead
-  company: OpenStack Foundation
-  link: http://openstack.org
-  image: https://media.licdn.com/media/AAEAAQAAAAAAAAYmAAAAJGZlNjQ5Zjk5LThhOTktNDA5NS04ZDdiLWI1ZjZhMGUxYjg4Nw.jpg
-  bio: 
 - id: jgbarah
   name: Jesús M. González-Barahona
   role: Researcher
@@ -61,18 +40,4 @@
   company: Bitergia
   link: https://bitergia.com
   image: https://pbs.twimg.com/profile_images/672419365845925889/raiXjy4W_400x400.jpg
-  bio: Bilbaino born in Gijón, living in <em>Fuenla</em> and working in Bitergia as CEO
-- id: rpaik
-  name: Raymond Paik
-  role: Operations Manager
-  company: The Linux Foundation
-  link: http://linuxfoundation.org
-  image: https://media.licdn.com/media/AAEAAQAAAAAAAAgPAAAAJGRiZWFhODk0LWY2OTUtNGI5Mi05MjllLTNjZmU2OWViMDc5Ng.jpg
-  bio: 
-- id: tmens
-  name: Tom Mens
-  role: Full professor
-  company: University of Mons
-  link: http://informatique.umons.ac.be/perso/Mens.Tom/
-  image: http://informatique.umons.ac.be/perso/Mens.Tom/images/tommens.jpg
-  bio: Full professor at the Institut d'Informatique of the Faculty of Sciences of the University of Mons (UMons) in Belgium. I am director of the Software Engineering Lab, and I teach courses in Software Engineering, Software Modeling, Software Evolution, Declarative Programming. 
+  bio: Bilbaino born in Gijón, living in <em>Fuenla</em> and working in Bitergia as CEO. Involved in many free, open source communities since 1999 and always passionate about mobile, web and free, open source technologies.
