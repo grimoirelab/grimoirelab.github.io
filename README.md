@@ -4,8 +4,8 @@ This repository host the code for Grimoire Lab website.
 ## How to build it
 
 Grimoire Lab site is an static site built using [Jekyll](https://jekyllrb.com/),
-and it relies on GitHub capability to host *jekyll based* sites, so the output is
-available in [grimoirelab.github.io](grimoirelab.github.io).
+and it relies on GitHub capability to host *jekyll based* sites. The output is
+available in [grimoirelab.github.io](http://grimoirelab.github.io).
 
 If you want to contribute to it, just fork the site, make your changes and submit
 a pull request.
