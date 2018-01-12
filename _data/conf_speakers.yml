@@ -20,6 +20,27 @@
   link: http://bitergia.com
   image: https://opensource.com/sites/default/files/resize/daniel-180x272.jpg
   bio:
+- id: econstantinou
+  name: Eleni Constantinou
+  role: Postdoctoral Researcher
+  company: University of Mons
+  link: http://www.econst.eu/
+  image: https://pbs.twimg.com/profile_images/677460691242999808/EutWGw0z_400x400.jpg
+  bio: B.Sc., M.Sc. and Ph.D. degrees from the Department of Informatics of Aristotle University of Thessaloniki (AUTH). Currently, postdoctoral researcher at the Software Engineering Lab of the Department of Computer Science of University of Mons and scientific coordinator of the research project SECOHealth “Towards an interdisciplinary, socio-technical methodology and analysis of the health of software ecosystems”
+- id: glink
+  name: Georg Link
+  role: PhD Student
+  company: Univerisity of Nebraska at Omaha
+  link: http://georg.link/
+  image: http://georg.link/profile.jpg
+  bio: Georg Link is a founding member of the CHAOSS community. His contributions in the Metrics Committee include outreach, maintaining the wiki and repository, and documenting meetings. Georg is a PhD student at the University of Nebraska at Omaha where he studies organizational engagement in open source communities.
+- id: hpillay
+  name: Harish Pillay
+  role: Community Architecture and Leadership
+  company: Red Hat
+  link: http://redhat.com
+  image: https://pbs.twimg.com/profile_images/99978402/HarishPillaycloseupshot_400x400.jpg
+  bio:
 - id: hmitsch
   name: Henrik Mitsch
   role: Senior Manager
@@ -27,6 +48,13 @@
   link: https://mozillians.org/u/hmitsch/
   image: https://pbs.twimg.com/profile_images/772562977149124608/0PtzlEbn_400x400.jpg
   bio: Henrik Mitsch leads Mozilla's Open Innovation Products & Engineering team. He was a volunteer since participating in a Mozilla 1.0 release party in 2002. In 2016 Henrik joined Mozilla's Open Innovation team as a staff member. Before that he held various consulting and IT management roles in telecommunications, transportation and software industries.
+- id: ivancsa
+  name: Ildiko Vancsa
+  role: Ecosystem Technical Lead
+  company: OpenStack Foundation
+  link: http://openstack.org
+  image: https://media.licdn.com/media/AAEAAQAAAAAAAAYmAAAAJGZlNjQ5Zjk5LThhOTktNDA5NS04ZDdiLWI1ZjZhMGUxYjg4Nw.jpg
+  bio: Ildikó started her journey with virtualization during the university years and has been in connection with this technology different ways since then. She started her career at a small research and development company in Budapest, where she was focusing on areas like system management and business process modelling and optimization. Ildikó got in touch with OpenStack when she started to work in the cloud project at Ericsson in 2013. She was a member of the Ceilometer and Aodh core teams, now she drives NFV related feature development activities in projects like Nova and Cinder. Beyond code and documentation contributions she is also very passionate about on boarding and training activities, which is one of her focus areas within the OpenStack Foundation.
 - id: jgbarah
   name: Jesús M. González-Barahona
   role: Researcher
@@ -41,3 +69,17 @@
   link: https://bitergia.com
   image: https://pbs.twimg.com/profile_images/672419365845925889/raiXjy4W_400x400.jpg
   bio: Bilbaino born in Gijón, living in <em>Fuenla</em> and working in Bitergia as CEO. Involved in many free, open source communities since 1999 and always passionate about mobile, web and free, open source technologies.
+- id: mafesan
+  name: Miguel Ángel Sánchez
+  role: Software Developer
+  company: Bitergia
+  link: https://bitergia.com
+  image: https://bitergia.com/images/team/mafesan.jpg
+  bio:
+- id: rpaik
+  name: Raymond Paik
+  role: Operations Manager
+  company: The Linux Foundation
+  link: http://linuxfoundation.org
+  image: https://media.licdn.com/media/AAEAAQAAAAAAAAgPAAAAJGRiZWFhODk0LWY2OTUtNGI5Mi05MjllLTNjZmU2OWViMDc5Ng.jpg
+  bio:
