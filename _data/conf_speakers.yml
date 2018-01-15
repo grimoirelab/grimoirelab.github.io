@@ -32,7 +32,7 @@
   role: PhD Student
   company: Univerisity of Nebraska at Omaha
   link: http://georg.link/
-  image: http://georg.link/profile.jpg
+  image: /img/chaosscon/georg.png
   bio: Georg Link is a founding member of the CHAOSS community. His contributions in the Metrics Committee include outreach, maintaining the wiki and repository, and documenting meetings. Georg is a PhD student at the University of Nebraska at Omaha where he studies organizational engagement in open source communities.
 - id: hpillay
   name: Harish Pillay
@@ -82,4 +82,4 @@
   company: The Linux Foundation
   link: http://linuxfoundation.org
   image: https://media.licdn.com/media/AAEAAQAAAAAAAAgPAAAAJGRiZWFhODk0LWY2OTUtNGI5Mi05MjllLTNjZmU2OWViMDc5Ng.jpg
-  bio:
+  bio: Ray has been with the OPNFV project since its launch in 2014 and is responsible for the day-to-day operation of OPNFV. He has over 15 years of experience in the hi-tech industry in roles ranging from software engineer, product manager, program manager, account manager, and team lead at companies such as EDS, Intel, and Medallia. Ray received an MBA from Carnegie Mellon University and a BS in Mathematics from University of Washington. He lives in Sunnyvale, CA with his wife and daughter and all three are loyal season ticket holders of the San Jose Earthquakes soccer team.
